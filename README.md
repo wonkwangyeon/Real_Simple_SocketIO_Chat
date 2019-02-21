@@ -2,6 +2,8 @@
 Really Simple Chat Program used SocketIO
 <pre><code>
 # install
+npm install
+or
 npm init
 npm install express --save
 npm install socket.io --save
